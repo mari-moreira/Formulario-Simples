@@ -1,0 +1,2 @@
+Exercício Proposto no Curso B7WEB no qual foi solicitado desenvolver um formulário utilizando apenas HTML e CSS. 
+O modelo de formulário utilizado foi o do canal Guilherme Chinaglia. Todavia os códigos estão totalmente diferentes.
